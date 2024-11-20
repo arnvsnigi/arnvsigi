@@ -28,7 +28,7 @@ That's why I like to make things that make a difference.
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/arnvsnigi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArnavSingh" height="30" width="40" /></a>
+<a href="https://github.com/arnvsnigi?tab=repositories" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArnavSingh" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/u/arnvsnigi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnvsnigi" height="30" width="40" /></a>
 &nbsp;
