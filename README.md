@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/arnav-singh-4746041aa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnvsnigi" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://arnvsnigi.github.io/portfolio/#/]" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="arnvsnigi" height="30" width="40" /></a>
+<a href="https://arnvsnigi.github.io/portfolio/#/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="arnvsnigi" height="30" width="40" /></a>
 &nbsp;
 
 
