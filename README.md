@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/arnav-singh-4746041aa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnvsnigi" height="30" width="40" /></a>
 &nbsp;
+<a href="[https://arnvsnigi.github.io/portfolio/#/]" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="arnvsnigi" height="30" width="40" /></a>
+&nbsp;
 
 
 
@@ -24,6 +26,7 @@ That's why I like to make things that make a difference.
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/arnvsnigi/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [arnsvnigi@gmail.com](arnvsnigi@gmail.com)
+- 🖥️View Portfolio at:[https://arnvsnigi.github.io/portfolio/#/]
 - 📝 [Resume](https://drive.google.com/file/d/1XNS5dsQlBio4oQfCKH4J0vVR1Pf2izkp/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
